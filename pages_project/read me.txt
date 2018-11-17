@@ -1,0 +1,13 @@
+This is a single template view for django.
+to run it, you must have
+
+-django 2.1
+-python 3.6
+
+open command line in this directory and enter
+
+python manage.py runserver
+
+open your favourite browser and run 127.0.0.1:8000
+
+#make sure your browser is running http not https
